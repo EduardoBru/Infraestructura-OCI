@@ -17,7 +17,7 @@ Al finalizar esta práctica, habrás construido una arquitectura de nube complet
     
 - 💾 File System con acceso controlado mediante NFS desde dos VMs diferentes.
     
-![Uploading image.png…]()
+<img width="1959" height="867" alt="image" src="https://github.com/user-attachments/assets/4af45118-c5cd-4bfa-bfb7-c01ceeca0772" />
 
 ---
 
