@@ -1,0 +1,2 @@
+# Infraestructura-El-stica-de-OCI-con-Control-de-Acceso-Granular
+Diseño e implementación de una arquitectura full-stack en OCI que combina Balanceo de Carga con un Grupo de Instancias de Autoescalado. Se configuró el aprovisionamiento de backends mediante imágenes personalizadas y se garantizó la seguridad de los datos con un File System (NFS) de acceso granular (Read-Only/Read-Write) y DNS privado.
