@@ -1,5 +1,5 @@
 
-# 🧬 **Práctica Integral de OCI**
+# 🧬 **Infraestructura Elástica de OCI con Control de Acceso Granular**
 
 ## Configuración de Red, Balanceador de Carga, Autoescalado, DNS Privado y File System
 
