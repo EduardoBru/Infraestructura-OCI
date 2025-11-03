@@ -5,8 +5,6 @@
 
 ### 🎯 **Objetivo**
 
-Al finalizar esta práctica, habrás construido una arquitectura de nube completa en Oracle Cloud Infrastructure (OCI) que incluye:
-
 - 🛠️ VCN con subredes públicas, listas de seguridad, gateway de Internet, tablas de rutas.
     
 - ⚖️ Balanceador de carga conectado a varias instancias backend.
