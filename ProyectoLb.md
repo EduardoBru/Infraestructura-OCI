@@ -113,6 +113,7 @@
         
 4. Asigna esta lista a la subred `FRA-AA-LAB-1-SNET-02` y elimina la lista predeterminada de esa subred.
     
+<img width="1352" height="582" alt="2" src="https://github.com/user-attachments/assets/1b436b45-93f4-4126-9ac0-d3558395c491" />
 
 ---
 
@@ -194,7 +195,6 @@
         
 2. Conéctate, instala `httpd` y `stress-ng`, luego crea una **Imagen personalizada** llamada `FRA-AA-LAB-1-CIM-01`.
     
-
 ---
 
 ## 3️⃣ Crear Balanceador de Carga (Load Balancer)
@@ -249,6 +249,9 @@
     
 - **LB Backend:** `FRA-AA-LAB-1-LB-BS-01`
     
+<img width="2095" height="555" alt="10" src="https://github.com/user-attachments/assets/4bb39366-0563-4622-adbc-8dd4a7de660c" />
+<img width="1707" height="456" alt="8" src="https://github.com/user-attachments/assets/fe7d8241-d440-4dbe-b2ed-c5cf0b69af6e" />
+
 
 ### 4.3 Crear Política de Autoescalado
 
@@ -262,6 +265,7 @@
     
 - **Capacidad:** Min 1 / Max 3 / Inicial 2
     
+<img width="1958" height="593" alt="1" src="https://github.com/user-attachments/assets/66d0400d-862e-43dd-be11-1bbad48de87e" />
 
 ---
 
@@ -298,6 +302,7 @@
     
 - **Mount Target:** `FRA-AA-LAB-1-MRT-01` en subred `FRA-AA-LAB-1-SNET-02`
     
+<img width="1772" height="402" alt="4" src="https://github.com/user-attachments/assets/2bff0e14-0dbd-49be-b634-9a2b7801fff4" />
 
 ### 6.2 Configurar Reglas de Seguridad
 
@@ -305,6 +310,7 @@
     
 - **En Default Security List:** Permitir NFS desde y hacia la subred del Mount Target
     
+<img width="1211" height="745" alt="5" src="https://github.com/user-attachments/assets/888b8123-87af-4aca-8360-779db76963c8" />
 
 ### 6.3 Configurar Opciones de Exportación
 
@@ -312,6 +318,7 @@
     
 - VM-02 → Lectura/Escritura
     
+<img width="2555" height="1075" alt="6" src="https://github.com/user-attachments/assets/d7254fde-b72c-4ecf-ac3b-26266994ee6b" />
 
 ### 6.4 Montar y Probar
 
@@ -319,6 +326,8 @@
     
 - Valida que VM-01 no pueda escribir y VM-02 sí.
     
+<img width="2108" height="286" alt="7" src="https://github.com/user-attachments/assets/950b18c9-bb22-4b8b-8d6b-b8029480741e" />
+<img width="1221" height="40" alt="9" src="https://github.com/user-attachments/assets/8ae19b74-7296-4849-b3e9-993ef06870f1" />
 
 ---
 
