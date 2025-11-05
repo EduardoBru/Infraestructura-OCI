@@ -194,7 +194,9 @@
     - **Clave SSH:** Pegar
         
 2. Conéctate, instala `httpd` y `stress-ng`, luego crea una **Imagen personalizada** llamada `FRA-AA-LAB-1-CIM-01`.
-    
+
+   <img width="1873" height="605" alt="11" src="https://github.com/user-attachments/assets/c553ffd4-5fb0-4bd2-b46e-24f73e088d1e" />
+
 ---
 
 ## 3️⃣ Crear Balanceador de Carga (Load Balancer)
@@ -289,6 +291,7 @@
     
 5. Desde VM-02 (Windows), prueba navegación a `http://www.FRA-AA-LAB-PrivateZone-01.com`.
     
+<img width="1746" height="681" alt="12" src="https://github.com/user-attachments/assets/1f89a7cf-222d-4354-8281-ad2c8b460721" />
 
 ---
 
